@@ -28,4 +28,9 @@ module.exports = {
       },
     ],
   },
+  resolve: {
+    alias: {
+      src: SRC_DIR,
+    },
+  },
 };
