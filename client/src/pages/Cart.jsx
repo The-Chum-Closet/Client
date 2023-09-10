@@ -1,12 +1,12 @@
 
-const Home = () => {
+const Cart = () => {
   return (
     <div>
       <h1>
-        Home
+        Cart
       </h1>
     </div>
-  );
+  )
 }
 
-export default Home;
+export default Cart;

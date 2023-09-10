@@ -3,7 +3,9 @@
 const Product = () => {
   return (
     <div>
-      <h1>DOGGY LIKE IM DOG TIL I DOG</h1>
+      <h1>
+        Product
+      </h1>
     </div>
   );
 }
